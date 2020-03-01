@@ -1,4 +1,4 @@
-The following has been tested against IntelliJ IDEA 2016.2.2
+。、The following has been tested against IntelliJ IDEA 2016.2.2
 
 ## Steps
 
